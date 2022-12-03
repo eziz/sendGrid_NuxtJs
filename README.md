@@ -1,0 +1,2 @@
+# sendGrid_NuxtJs
+sendgrid
